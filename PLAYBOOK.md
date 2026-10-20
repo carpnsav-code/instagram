@@ -11,8 +11,10 @@ Instagram is handled through GoHighLevel (GHL).
 
 ## Rule 1: "COMMERCIAL" → collect contact info → hand off to Marshall
 
-**Trigger:** someone comments or DMs the word **"commercial"** (any capitalization, e.g. "Commercial", "Commercial bro"),
-or clearly says they want commercial work/leads.
+**Current focus:** this is the only workflow active right now. Skool conversations are on hold until Danny says otherwise.
+
+**Trigger:** someone comments or DMs the word **"commercial"** or **"industrial"** (any capitalization, e.g. "Commercial", "Commercial bro"),
+or clearly says they want commercial/industrial work or leads.
 
 **Who this is for:** contractors (epoxy / polishing / coatings) who want commercial leads.
 It is *not* for customers who filled out the floor-quote form. Those are Mint's own jobs, so leave them out.
@@ -38,3 +40,4 @@ It is *not* for customers who filled out the floor-quote form. Those are Mint's 
 - Tags in GHL are the source of truth for where each lead stands:
   - `commercial - awaiting phone`: we asked, waiting on them
   - `commercial - sent to marshall`: handed off
+  - `commercial - already with marshall`: they're already working with Marshall, nothing to send
