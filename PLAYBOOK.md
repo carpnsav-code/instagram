@@ -5,6 +5,8 @@ Instagram is handled through GoHighLevel (GHL).
 - **GHL sub-account:** Mint Concrete Polishing & Epoxy (`Xj7u5i7fbL5xWezHHamo`)
 - **Instagram accounts connected:** `@dannyjcarpenter` (main DM inbox), `@lp.resin`, `@mint.concrete`
 
+**Every reply follows [`VOICE.md`](VOICE.md)**: short, casual, sounds like Danny.
+
 ---
 
 ## Rule 1: "COMMERCIAL" → collect contact info → hand off to Marshall
