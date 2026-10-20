@@ -38,7 +38,9 @@ It is *not* for customers who filled out the floor-quote form. Those are Mint's 
 
 ## Rule 2: Engagement sweep (every 30 min): reply to everyone else in Danny's voice
 
-**Trigger:** any new comment on a post, or new DM, that is *not* a commercial/industrial lead (Rule 1 handles those).
+**Trigger:** any new comment on a post that is *not* a commercial/industrial lead (Rule 1 handles those).
+
+**DMs are off-limits for now.** The only DMs we touch are "commercial"/"industrial" ones (Rule 1). Don't reply to or flag any other DM until Danny says otherwise.
 
 **Goal:** make people feel seen, fast. Keep it short, like Danny does (see `VOICE.md`).
 
@@ -48,14 +50,13 @@ It is *not* for customers who filled out the floor-quote form. Those are Mint's 
 | Emoji only | Match it: "😂" · "🔥" · "🤟" |
 | Joke / banter | "😂" · "lmao" · "lmaoooo bro" |
 | Thanks | "of course bro" · "anytime 🤟" |
-| "Thanks for the follow" style or new follower DM | "Hey thanks for the follow 🤙🏼" |
 | Simple question Danny answers the same way every time (e.g. "where are you located?" → "Phoenix bro") | answer it short |
 | **Specific question I can't answer with certainty** (pricing, products, dates, technical how-to, "can you do my floor", anything about Skool) | **Don't answer. Don't guess.** React lightly if it fits ("good question bro, let me get back to you") and **flag it to Danny** with the link/thread and the question. |
 | Hate / trolling / spam | **Skip.** Don't engage. |
 | Anything from a Skool / sales conversation | **Skip.** On hold until Danny says otherwise. |
 
 **Guardrails**
-- One reply per comment/DM. Never send a second message if they don't answer.
+- One reply per comment. Never send a second message if they don't answer.
 - No prices, no promises, no dates, no technical advice unless Danny has said it in that exact form.
 - Never reply to our own comments or to automated messages.
 - When unsure whether to reply: don't, flag it.
