@@ -36,7 +36,7 @@ It is *not* for customers who filled out the floor-quote form. Those are Mint's 
 
 ---
 
-## Rule 2: Engagement sweep (every 5 min): reply to everyone else in Danny's voice
+## Rule 2: Engagement sweep (every 30 min): reply to everyone else in Danny's voice
 
 **Trigger:** any new comment on a post, or new DM, that is *not* a commercial/industrial lead (Rule 1 handles those).
 
